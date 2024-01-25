@@ -7,7 +7,7 @@ This browser based web application to ...
 ## 2. Names of Contributors
 List team members and/or short bio's here... 
 * Gurvir Dhami. I am tall 
-* Alex Hyeoksu Choi. BDAY Jan/28/1999
+* Alex Hyeoksu Choi. BDAY Jan/28/1999.
 * Mark P, suffering.
 	
 ## 3. Technologies and Resources Used
